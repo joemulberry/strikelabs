@@ -1,4 +1,4 @@
-# strikelabs
+# Strike Labs
 
 A sandbox for an embryonic computer vision project. 
 
